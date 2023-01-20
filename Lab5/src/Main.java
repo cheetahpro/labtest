@@ -13,5 +13,7 @@ public class Main {
 		Bus t2 =new Bus();
 		t2.seats=sc.nextInt();
 		t2.start();
+		
+		System.out.println("Hello World");
 	}
 }
